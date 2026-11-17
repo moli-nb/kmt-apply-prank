@@ -1,0 +1,83 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA1-Digest-Manifest: hgo1Bkelx6TmG2UA3oEEbAVe2QE=
+X-Android-APK-Signed: 2,3
+
+Name: assets/css/font-awesome.min.css
+SHA1-Digest: u8+tGyY/p/RMfWPI8+FO+YH0XBw=
+
+Name: assets/css/main.css
+SHA1-Digest: JrTIbxQ5XeuX0NtfsQR7vWPfYZk=
+
+Name: assets/fonts/fontawesome-webfont.eot
+SHA1-Digest: ctjhmCfDFh4N7L03oRmYpmvdWMs=
+
+Name: assets/fonts/fontawesome-webfont.svg
+SHA1-Digest: hR05AqQVydnMcgA1cptrtaCT/u4=
+
+Name: assets/fonts/fontawesome-webfont.ttf
+SHA1-Digest: ZyB6yAWPjGxHCAy6dTpO1efQVUM=
+
+Name: assets/fonts/fontawesome-webfont.woff
+SHA1-Digest: 4VsB2V2pkMmYrKwPWrr/kEOj6zI=
+
+Name: assets/fonts/fontawesome-webfont.woff2
+SHA1-Digest: 3Vzc4A2OYWquZSpoefUVlmicTKU=
+
+Name: assets/js/ScriptResource.js
+SHA1-Digest: 5ZiCnytDKYUo1kPr7ktaR72i0lY=
+
+Name: assets/js/main.js
+SHA1-Digest: U+wE244W84BShUv79pHgk37igNk=
+
+Name: assets/js/util.js
+SHA1-Digest: n+JGsKNyGpQVyuXL8ZIy+iW1yQc=
+
+Name: image/BackTop.png
+SHA1-Digest: DRLP97Du1CiF20Ts4qUs4oXWKTw=
+
+Name: image/kmt.ico
+SHA1-Digest: QNiyUOyejl4YslBc382ngM7nOGU=
+
+Name: image/refresh.png
+SHA1-Digest: f9BaCjvyQ4cmCnMZN5FobSQKL9o=
+
+Name: index.html
+SHA1-Digest: dkIQtBq6XyPPvbMBzS2QxMElI9w=
+
+Name: index.m4a
+SHA1-Digest: T1hahj24H/HrQ6hs+yIb/kDmiUg=
+
+Name: jscss/bootstrap.css
+SHA1-Digest: hn955i0hGdzIX/awP28kMIIuWgs=
+
+Name: jscss/bootstrap.min.js
+SHA1-Digest: ch4jhBK1ZpA4GaOyvR0YOz/vses=
+
+Name: jscss/bs-stepper.min.js
+SHA1-Digest: +aaZKUmdd/yUFzMWnMRBRzEFxYg=
+
+Name: jscss/bsStepper.css
+SHA1-Digest: 1m66iGs/ccmL6VrjC4H+xfTN5PY=
+
+Name: jscss/default.js
+SHA1-Digest: IPIGkS9MEVvm07WKMjM/hG6a9vk=
+
+Name: jscss/jquery-3.1.1.min.js
+SHA1-Digest: NCZWUVndiiK1Fr15l8mDZl7RTSA=
+
+Name: jscss/jquery-ui-textar-2.css
+SHA1-Digest: 18jWEpRan2gRSPMZlRtermCoD5Y=
+
+Name: jscss/jquery-ui-textar-2.js
+SHA1-Digest: gYjH6lFgC5630F/U3ktHINTxyHg=
+
+Name: jscss/jquery-ui.css
+SHA1-Digest: 6OjRN0aJABIRvfyjbblVcTjk7Ag=
+
+Name: jscss/sweetalert.css
+SHA1-Digest: igmvLAj5lqjEVAq+58hEYrJzU0g=
+
+Name: jscss/sweetalert.min.js
+SHA1-Digest: h8oZgGyUvNM3JdOuqHy2UpPJ3wU=
+
